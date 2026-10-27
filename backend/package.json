@@ -7,7 +7,7 @@
     "ourwebpack": "webpack --watch",
     "ourserver": "nodemon server-compiled",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server-compiled.js"
   },
   "keywords": [],
   "author": "",
